@@ -1,0 +1,114 @@
+body{
+    margin: 0px;
+}
+#navbar
+{
+    padding: 0px 10px 10px 10px;
+    
+    background-color: rgb(35, 35, 221);
+}
+#div11
+{   
+    word-spacing: 30px;
+    text-align: center;
+    display: inline-block;
+    transform: translate(58px, -9px);
+}
+#div12
+{display: inline-block;
+    word-spacing: 30px;
+    transform: translate(7px, 6px);
+    
+ 
+}
+.anchor
+{
+    font-size: xx-large;
+}
+.imga
+{
+ text-align: left;
+}
+a
+{
+color: whitesmoke;
+text-decoration: none;
+
+}
+a:hover
+{
+color:red;
+}
+a:visited
+{
+    color:white;
+}
+#div2
+{
+    height: 200px;
+    box-sizing: border-box;
+    background: #40E0D0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+padding: 10px;
+    background: url(https://source.unsplash.com/1400x760/?event) no-repeat center;
+}
+#div2 p
+{
+    text-align: center;
+}
+.hero
+{
+text-align:center;
+}
+h2
+{   background-color: blue;
+    text-align: center;
+    color: white;
+}
+h1
+{
+    text-align: center;  
+}
+.div31
+{
+display: inline-block;
+width:33.1%;
+}
+#div3
+{
+box-sizing: border-box;
+display: inline-block;
+
+}
+.img
+{
+width: 100%;
+padding:0.5px;
+}
+.imglogo
+{
+max-width: 5%;
+transform: translate(10px, 10px);
+    width: 50%;
+    height: 54px;
+    max-width: 5%;
+
+
+}
+h2+p
+{
+    text-align: center;
+}
+.lm
+{
+background-color: rgb(100, 100, 236);
+color: white;
+}
+#search
+{
+    color: white;
+    display: inline-block;
+    transform: translate(337px, -10px);
+    font-size: larger;
+}
